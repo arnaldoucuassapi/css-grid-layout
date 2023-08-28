@@ -210,3 +210,7 @@ Essas propriedades possuem alguns valores como:
 - *space-between*
 - *space-around*
 - *space-evenly*
+
+<br> <br>
+
+Sou um dev júnior que tinha bastante dificuldades com `grid layout` e graças ao estudo que fiz e consegui superar. Se pelo menos uma pessoa também aprender com esse conteúdo, ficarei feliz de ter compartilhado esse conhecimento. Espero que curtam.
